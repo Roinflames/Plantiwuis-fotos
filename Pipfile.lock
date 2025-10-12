@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0cd5354bee026d87bcf77cc41f72d9f034c6b0da8f02b0fd3a4c5cb328ed034c"
+            "sha256": "255a7af58c1493e7d7605affcd45afe0d87cac4ceb992d73b1ed75f806fbc9ab"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -608,13 +608,11 @@
             "version": "==0.24.2"
         },
         "dvc": {
-            "extras": [
-                "webdav"
-            ],
             "hashes": [
                 "sha256:14e2cf206ee1f65a2afddf2b756bbc25816b32177c56067e1ccce2c65fbdb89f",
                 "sha256:b845cf8825e1b07d427e8d04754a0e01f141708bcbb1dae91e18db9e640ae68e"
             ],
+            "index": "pypi",
             "markers": "python_version >= '3.9'",
             "version": "==3.63.0"
         },
@@ -981,11 +979,11 @@
         },
         "idna": {
             "hashes": [
-                "sha256:12f65c9b470abda6dc35cf8e63cc574b1c52b11df2c86030af0ac09b01b13ea9",
-                "sha256:946d195a0d259cbba61165e88e65941f16e9b36ea6ddb97f00452bae8b1287d3"
+                "sha256:771a87f49d9defaf64091e6e6fe9c18d4833f140bd19464795bc32d966ca37ea",
+                "sha256:795dafcc9c04ed0c1fb032c2aa73654d8e8c5023a7df64a53f39190ada629902"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==3.10"
+            "markers": "python_version >= '3.8'",
+            "version": "==3.11"
         },
         "iterative-telemetry": {
             "hashes": [
