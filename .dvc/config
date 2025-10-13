@@ -1,6 +1,9 @@
 [core]
-    remote = onedrive
+    remote = gdrive_remote
 ['remote "gdrive"']
     url = gdrive://1c6HftLT2SV08kORDFuu8g79eAOxvDSSE
 ['remote "onedrive"']
     url = C:\Users\Rodrigo\OneDrive\Plantiwuis-DVC
+['remote "gdrive_remote"']
+    url = gdrive://1c6HftLT2SV08kORDFuu8g79eAOxvDSSE
+    gdrive_use_service_account = true
