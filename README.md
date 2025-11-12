@@ -28,6 +28,9 @@ pip install --upgrade "dvc[gdrive]"
 
 # Intentar un push inicial
 dvc push
+dvc pull
+dvc fetch
+dvc fetch -r gdrive_remote
 ```
 
 # 3️⃣ Ajustes de autenticación para Google Drive
